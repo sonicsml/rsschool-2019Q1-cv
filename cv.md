@@ -2,9 +2,9 @@
 
 ### 1. Full Name:
 
-	Palaukou Dzmitry  
+  Palaukou Dzmitry  
 
-	Половков Дмитрий  
+  Половков Дмитрий  
 
 ### 2. Contacts:
 * 	**email:** sonics.scs@gmail.com
@@ -12,8 +12,9 @@
 * 	**phone:** +375 (29) 365-65-21
 
 ### 3. Summare:
-	I tried myself in different areas of programming and i decided to expand at the front-end.   My target is to achieve great knowledge in this area, to be a professional, to move and divide my experience.  
-	I am making efforts to reach the result.
+  I tried myself in different areas of programming and i decided to expand at the front-end.
+  My target is to achieve great knowledge in this area, to be a professional, to move and divide my experience.  
+  I am making efforts to reach the result.
 
 ### 4. Skills:
 -	SAP ABAP/4
@@ -28,7 +29,7 @@
 -	SEO
 
 ### 5. Code examples: 
-	[https://github.com/sonicsml/warmup](https://github.com/sonicsml/warmup).  
+-	[https://github.com/sonicsml/warmup](https://github.com/sonicsml/warmup).
 
 ### 6. Work and expieriance 
 -	JSG "Gomlselmash" - developer sap abap/4 - 2 years
