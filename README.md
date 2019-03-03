@@ -1,1 +1,1 @@
-[https://github.com/sonicsml/rsschool-2019Q1-cv/cv.md](https://github.com/sonicsml/rsschool-2019Q1-cv/cv.md)
+[https://sonicsml.github.io/rsschool-2019Q1-cv/cv](https://sonicsml.github.io/rsschool-2019Q1-cv/cv)
