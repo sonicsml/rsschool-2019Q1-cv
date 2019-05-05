@@ -1,0 +1,103 @@
+body {
+	max-width: 1024px;
+	margin: 0 auto;
+	padding: 0;
+	
+	font-size: 14px;
+	font-style: normal;
+	line-height: 1.2;
+	font-family: 'Roboto', sans-serif;
+	color: black;
+
+	background: #50a3a2;
+    background: -webkit-linear-gradient(top left,#50a3a2 0%,#78cc6d 100%);
+    background: linear-gradient(to bottom right,#50a3a2 0%,#78cc6d 100%);
+}
+a {
+	color: #646464;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: #78cc6d;
+}
+
+header, footer {
+	background: url(../images/bg-1.jpg);
+	background-size: cover;
+	color:white;
+	position: relative;
+	text-align: center;
+}
+header .cat {
+	position: absolute;
+	top: 55px;
+    right: 170px;
+}
+header ul {
+	margin: 0;
+	padding: 0;
+}
+header ul li {
+	display: inline-block;
+}
+header ul li a {
+	background: white;
+	font-weight: 700;
+	margin: 5px;
+	padding: 5px 10px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;
+	border:2px solid #78cc6d;
+	transition: 0.2s;
+}
+header ul li:hover a {
+    background: #87c3a0;
+    color: white;
+}
+header,
+footer,
+.left-column,
+.right-column {
+    background-color: #fff;
+    border: 2px solid #e7e7e6;
+    -webkit-box-shadow: 0 3px 10px #838383;
+    -moz-box-shadow: 0 3px 10px #838383;
+    box-shadow: 0 3px 10px #838383;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;
+	margin-bottom: 10px;
+	padding:20px;
+}
+main {
+  display: flex;
+  justify-content: space-between;
+  align-content: space-between;
+}
+main a {
+	text-decoration: underline;
+}
+.left-column {
+	background: url(../images/bg-1.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    margin-right: 10px;
+    min-width: 20%;
+}
+.left-column a {
+	color:white;
+}
+.left-column .avatar {
+	margin: 0 auto;
+	border-radius: 100%;
+	-webkit-border-radius: 100%;
+	border: 2px solid white;
+	background: url(../images/ava.jpg);
+	background-size: cover;
+    background-position: center;
+	height: 150px;
+	width: 150px;
+}
+footer {
+	font-weight: 700;
+}
